@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ITteam-IWP.github.io/readme-sfmrsf/sitemap.xml
